@@ -3,7 +3,7 @@
 C/C++ software engineer building cross-platform desktop applications involving security. Currently open to software engineering opportunities in the United States.
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:astatine387@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Astatine387/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astatine387/)
 
 # Tech Stack
 
