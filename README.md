@@ -18,8 +18,8 @@ C/C++ software engineer building cross-platform desktop applications focused on 
 
 | Project | Description | Highlights |
 |---------|-------------|------------|
-| [FileEncryption](https://github.com/Astatine387/Portfolio/tree/main/Projects/FileEncryption) | Password-based file encryption tool | 96%+ test coverage · 2 GB/s throughput · Progress tracking and Cancellation |
-| [PasswordManager](https://github.com/Astatine387/Portfolio/tree/main/Projects/PasswordManager) | Encrypted password file manager | 97%+ test coverage · Password Generation · Automatic Clipboard Clear · Search and Filter |
+| [FileEncryption](https://github.com/Astatine387/Portfolio/tree/main/Projects/FileEncryption) | Password-based file encryption tool | 95%+ test coverage · 2 GB/s throughput · Progress tracking and Cancellation |
+| [PasswordManager](https://github.com/Astatine387/Portfolio/tree/main/Projects/PasswordManager) | Encrypted password file manager | 95%+ test coverage · Password Generation · Automatic Clipboard Clear · Search and Filter |
 
 Every project feature CI/CD via GitHub Actions, cross-platform builds (MSVC/GCC), static analysis, runtime memory safety validation via AddressSanitizer, and Codecov integration.
 
