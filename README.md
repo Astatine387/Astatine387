@@ -2,7 +2,7 @@
 
 I'm a C++ software engineer focused on cryptographic, cross-platform, high-performance desktop applications. I care about security considerations, memory safety, and practical design with minimal but necessary features.
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:astatine387@outlook.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=maildotru&logoColor=white)](mailto:astatine387@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astatine387)
 
 # Tech Stack
